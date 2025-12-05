@@ -1,8 +1,12 @@
 # Vanessa Flore's Portfolio
 
-I am a Eletrical Engineering major at CSUF and I plan on graduating in 2029.
+This is my home page! My name is Vanessa Flores. I am a student at Cal State Fullerton and I am a Eletrical Engineering major. 
 
- ## Favorite CPSC 120L Labs
+## Computer Science Projects
+
+ My Github page is http://github.com/vflores.
+
+### CPSC 120
 
 * Lab 4, part 1
  
