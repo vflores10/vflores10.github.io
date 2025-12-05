@@ -5,10 +5,14 @@ I am a Eletrical Engineering major at CSUF and I plan on graduating in 2029.
  ## Favorite CPSC 120L Labs
 
 * Lab 4, part 1
-This was one of my favorite labs because my partner and I were able to create a program that converts the measurement of volume from milliliters in the metric system to teaspoon, tablespoon, ounce and cup. This lab taught me how to use double in code when we have decimals such as the ones found in units of measure. 
+ 
+  This was one of my favorite labs because my partner and I were able to create a program that converts the measurement of volume from milliliters in the metric system to teaspoon, tablespoon, ounce and cup. This lab taught me how to use double in code when we have decimals such as the ones found in units of measure.
+
 
 * Lab 6, part 2 
-This was my second favorite lab because I was able to learn how scoring works in Blackjack when I was unfamiliar with the game before. This lab taught me how to turn game rules into code in order for my program to know how the game works using if statements to avoid errors along the game. This lab overall showed me how programming can model a game, in this case Blackjack.
+ 
+  This was my second favorite lab because I was able to learn how scoring works in Blackjack when I was unfamiliar with the game before. This lab taught me how to turn game rules into code in order for my program to know how the game works using if statements to avoid errors along the game. This lab overall showed me how programming can model a game, in this case Blackjack.
 
 * Lab 7, part 1
-This was another of my favorite labs because it only had one part in which we had to make our own parking program. We created functions that determined the times someone was able to park in a specific location and time. With this lab I learned to utilize command line arguements to identify the days and times parking was permitted in a specific street. 
+ 
+  This was another of my favorite labs because it only had one part in which we had to make our own parking program. We created functions that determined the times someone was able to park in a specific location and time. With this lab I learned to utilize command line arguements to identify the days and times parking was permitted in a specific street. 
