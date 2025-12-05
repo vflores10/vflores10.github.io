@@ -1,6 +1,6 @@
 # Vanessa Flore's Portfolio
 
- This is my home page! My name is Vanessa Flores and I am a student at Cal State Fullerton and my major is Eletrical Engineering.
+ This is my home page! My name is Vanessa Flores and I am a student at Cal State Fullerton and my major is Electrical Engineering.
 
 ## Computer Science Projects
 
